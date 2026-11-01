@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udara Samarasinghe</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaraas19&label=Profile%20views&color=0e75b6&style=flat" alt="udaraas19" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Logistic-Operation-System**
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Full-Stack Developing**
 
